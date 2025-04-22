@@ -1,12 +1,12 @@
 ## Iuri Pedroso
 
 <div align="center" style="display: flex; justify-content: center;">
-        <img height="165px"
-            src="https://github-readme-stats.vercel.app/api?username=iuripedroso&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true&border_color=fffffffff" />
-        <img height="165px"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuripedroso&layout=compact&langs_count=6&include_all_commits=false&theme=midnight-purple&border_color=fffffff" />
-    
+    <img height="165px"
+        src="https://github-readme-stats.vercel.app/api?username=iuripedroso&show_icons=true&theme=orange&include_all_commits=false&count_private=true&border_color=00000000" />
+    <img height="165px"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuripedroso&layout=compact&langs_count=6&include_all_commits=false&theme=orange&border_color=00000000" />
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
