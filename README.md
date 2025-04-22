@@ -2,9 +2,9 @@
 
 <div align="center" style="display: flex; justify-content: center;">
     <img height="165px"
-        src="https://github-readme-stats.vercel.app/api?username=iuripedroso&show_icons=true&include_all_commits=false&count_private=true&border_color=00000000&title_color=FFA500&text_color=FFA500&icon_color=FFA500&bg_color=00000000" />
+        src="https://github-readme-stats.vercel.app/api?username=iuripedroso&show_icons=true&include_all_commits=false&count_private=true&border_color=ffffffff&title_color=FFA500&text_color=FFA500&icon_color=FFA500&bg_color=00000000" />
     <img height="165px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuripedroso&layout=compact&langs_count=6&include_all_commits=false&border_color=00000000&title_color=FFA500&text_color=FFA500&bg_color=00000000" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuripedroso&layout=compact&langs_count=6&include_all_commits=false&border_color=ffffffff&title_color=FFA500&text_color=FFA500&bg_color=00000000" />
 </div>
 
 
