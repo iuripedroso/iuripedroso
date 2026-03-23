@@ -44,7 +44,7 @@ Atualmente, estou aprofundando meus estudos em **desenvolvimento web, análise d
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="20%">
   
 ### Others
 <div align="center">
