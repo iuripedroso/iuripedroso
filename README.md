@@ -32,3 +32,31 @@ Busco sempre equilibrar **desempenho técnico** com uma **experiência de usuár
 Atualmente, estou aprofundando meus estudos em **desenvolvimento web, análise de dados e sistemas inteligentes**.
 
 </div>
+
+<table><tr><td valign="top" width="25%">
+
+### Frontend  
+<!-- <a href="https://github.com/tayyabadev"> -->
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter,tailwind,js,react&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Languages
+<!-- <a href="https://github.com/tayyabadev"> -->
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=typescript,js,python,cpp,c,dart,&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+  
+### Others
+<!-- <a href="https://github.com/tayyabadev"> -->
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,firebase,linux,linkedin,instagram,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
