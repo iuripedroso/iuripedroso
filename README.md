@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; justify-content: center;">
     <div align="center">
-    <img width=300 src="./assets/main.gif"/>    
+    <img width=165px src="./assets/main.gif"/>    
 </div>
     <img height="165px"
         src="https://github-readme-stats.vercel.app/api?username=iuripedroso&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
