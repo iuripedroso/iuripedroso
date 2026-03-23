@@ -54,7 +54,7 @@ Atualmente, estou aprofundando meus estudos em **desenvolvimento web, análise d
 </td>
 </tr>
 </table>
-
+## CERTIFICADOS
 </div>
 <div align="center">
   <img src="https://github.com/iuripedroso/iuripedroso/blob/main/assets/BATEL_page-0001.jpg?raw=true" width="120"/>
