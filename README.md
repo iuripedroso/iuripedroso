@@ -26,7 +26,7 @@ Atualmente, estou aprofundando meus estudos em **desenvolvimento web, análise d
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="22%">
 
 ### Frontend  
 <div align="center">  
