@@ -19,7 +19,7 @@
 
 ## 👻 Um pouco sobre mim...
 
-Sou um **estudante de Ciência da Computação** e desenvolvedor **Full-Stack em formação**, com forte interesse em criar soluções digitais criativas e centradas no usuário.
+Sou um **estudante de Ciência da Computação** e desenvolvedor **em formação**, com forte interesse em criar soluções digitais criativas e centradas no usuário.
 
 Minha trajetória é guiada por **curiosidade, aprendizado contínuo e evolução constante** — não gosto de ficar parado e estou sempre buscando melhorar minhas habilidades técnicas e criativas.
 
