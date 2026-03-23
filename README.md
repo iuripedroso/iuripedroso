@@ -12,8 +12,6 @@
 
 Sou um **estudante de Ciência da Computação** e desenvolvedor **em formação**, com forte interesse em criar soluções digitais criativas e centradas no usuário.
 
-Minha trajetória é guiada por **curiosidade, aprendizado contínuo e evolução constante** — não gosto de ficar parado e estou sempre buscando melhorar minhas habilidades técnicas e criativas.
-
 Atualmente, desenvolvo projetos com foco em **Interação Humano-Computador (IHC)**, explorando principalmente o impacto da **psicologia das cores** e do **layout de interfaces** na experiência do usuário, especialmente em e-commerces.
 
 Tenho experiência com **algoritmos, otimização e computação paralela**, além do desenvolvimento de aplicações utilizando diferentes tecnologias.
