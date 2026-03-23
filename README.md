@@ -1,5 +1,4 @@
- ## Iuri Pedroso - Contatos 
-<div> 
+ ## Iuri Pedroso - Contatos <div> 
   <a href="https://www.linkedin.com/in/iuripedroso/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
@@ -14,7 +13,8 @@
   </a>
 </div>
 
-<br></br>
+
+
 
 
 <div align="center" style="display: flex; justify-content: center;">
