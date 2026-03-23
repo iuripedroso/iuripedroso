@@ -1,4 +1,5 @@
-## Iuri Pedroso - Contact Me
+## Iuri Pedroso - Contatos 
+<img src="https://skillicons.dev/icons?i=linkedin,instagram,whatsappqt&perline=4" /> 
 <div align="center" style="display: flex; justify-content: center;">
     <img height="165px"
         src="https://github-readme-stats.vercel.app/api?username=iuripedroso&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
