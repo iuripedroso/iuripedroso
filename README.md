@@ -1,7 +1,6 @@
 
- ## Iuri Pedroso - Contatos
-  
-  <div>
+ ## Iuri Pedroso - Contact me 
+  <div style="display: flex; justify-content: center;>
   <a href="https://www.linkedin.com/in/iuripedroso/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
@@ -16,7 +15,7 @@
   </a>
 </div>
 
-##
+## Github Stats
 <div align="center" style="display: flex; justify-content: center;">
     <img height="165px"
         src="https://github-readme-stats.vercel.app/api?username=iuripedroso&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
