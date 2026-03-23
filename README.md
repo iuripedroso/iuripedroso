@@ -56,3 +56,9 @@ Atualmente, estou aprofundando meus estudos em **desenvolvimento web, análise d
 </table>
 
 </div>
+<div align="center">
+  <img src="https://github.com/iuripedroso/iuripedroso/blob/main/assets/BATEL_page-0001.jpg?raw=true" width="120"/>
+  <img src="https://github.com/iuripedroso/iuripedroso/blob/main/assets/BATEL_page-0001.jpg?raw=true" width="120"/>
+  <img src="https://github.com/iuripedroso/iuripedroso/blob/main/assets/BATEL_page-0001.jpg?raw=true" width="120"/>
+  <img src="https://github.com/iuripedroso/iuripedroso/blob/main/assets/BATEL_page-0001.jpg?raw=true" width="120"/>
+</div>
