@@ -17,7 +17,7 @@
 
 <div align="left">
 
-## 👻 Um pouco sobre mim...
+## - Iuri Pedroso
 
 Sou um **estudante de Ciência da Computação** e desenvolvedor **Full-Stack em formação**, com forte interesse em criar soluções digitais criativas e centradas no usuário.
 
