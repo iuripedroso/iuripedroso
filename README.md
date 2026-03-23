@@ -56,7 +56,7 @@ Atualmente, estou aprofundando meus estudos em **desenvolvimento web, análise d
 
 
 <details close>
-<summary><a name="patents"><a/><h2>🥇 Patents</h2></summary>
+<summary><a name="patents"><a/><h2>🥇 Certificados (<-- Clicável)</h2></summary>
     <div align="center">
          <img src="https://github.com/iuripedroso/iuripedroso/blob/main/assets/BATEL_page-0001.jpg?raw=true" width="200"/>
           <img src="https://github.com/iuripedroso/iuripedroso/blob/main/assets/BATEL_page-0001.jpg?raw=true" width="200"/>
