@@ -28,7 +28,7 @@
 
 ## Portfolio
 
-<a href="https://github.com/iuripedroso/TraflePlant">TraflePlant</>
+<a href="https://github.com/iuripedroso/TraflePlant">TraflePlant</a>
 
 
 ##
