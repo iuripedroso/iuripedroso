@@ -54,7 +54,7 @@
         
 ### Languages
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,js,python,cpp,c,dart,&perline=4" /> 
+    <img src="https://skillicons.dev/icons?i=typescript,js,python,cpp,c,java,dart,&perline=4" /> 
 </div>
 
 </td>
