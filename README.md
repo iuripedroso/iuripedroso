@@ -28,7 +28,10 @@
 
 ## Portfolio
 
-- <a href="https://github.com/iuripedroso/TraflePlant" Style="none">TraflePlant</a>
+- <a href="https://github.com/iuripedroso/TraflePlant" Style="none">TraflePlant (Flutter | Dart)</a>
+- <a href="https://github.com/iuripedroso/TraflePlant" Style="none">GARDEN (Html | CSS | JavaScript)</a>
+- <a href="https://github.com/iuripedroso/TraflePlant" Style="none"> Ciencia de Dados (Flutter | Dart)</a>
+- <a href="https://github.com/iuripedroso/TraflePlant" Style="none">TraflePlant (Flutter | Dart)</a>
 
 
 ##
