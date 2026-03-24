@@ -26,13 +26,11 @@
 
 <div align="left">
 
-##
+## Portfolio
 
-Sou um **estudante de Ciência da Computação** e desenvolvedor **em formação**, com forte interesse em criar soluções digitais criativas e centradas no usuário. Atualmente, desenvolvo projetos com foco em **Interação Humano-Computador (IHC)**, explorando principalmente o impacto da **psicologia das cores** e do **layout de interfaces** na experiência do usuário, especialmente em e-commerces.
+<a href="https://github.com/iuripedroso/TraflePlant">TraflePlant</>
 
-Tenho experiência com **algoritmos, otimização e computação paralela**, além do desenvolvimento de aplicações utilizando diferentes tecnologias.
 
-Atualmente, estou aprofundando meus estudos em **desenvolvimento web, análise de dados e sistemas inteligentes**.
 ##
 </div>
 
