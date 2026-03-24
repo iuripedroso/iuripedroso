@@ -32,8 +32,6 @@ Sou um **estudante de Ciência da Computação** e desenvolvedor **em formação
 
 Tenho experiência com **algoritmos, otimização e computação paralela**, além do desenvolvimento de aplicações utilizando diferentes tecnologias.
 
-Busco sempre equilibrar **desempenho técnico** com uma **experiência de usuário intuitiva e eficiente**.
-
 Atualmente, estou aprofundando meus estudos em **desenvolvimento web, análise de dados e sistemas inteligentes**.
 ##
 </div>
