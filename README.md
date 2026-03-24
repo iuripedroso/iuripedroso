@@ -30,6 +30,7 @@
 
 - TraflePlant (Flutter | Dart): https://github.com/iuripedroso/TraflePlant
 - GARDEN (Html | CSS | JavaScript): https://iuripedroso.github.io/GARDEN/
+- SistemaDeGerenciamento (Java | JavaFX | PostgreSQL): https://github.com/iuripedroso/SistemaDeGerenciamento 
 - Inteligencia_Artificial (Python): https://github.com/iuripedroso/TraflePlant
 - Dear_Domenique (Html | CSS | JavaScript): https://iuripedroso.github.io/Dear_Domenique/
 
