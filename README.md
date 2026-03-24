@@ -1,6 +1,6 @@
 
  ## Iuri Pedroso - Contact me 
-  <div style="display: flex; justify-content: center;>
+<div style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/iuripedroso/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
