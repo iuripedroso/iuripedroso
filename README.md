@@ -71,7 +71,9 @@
 </table>
 </div>
 
-
+## Learning
+- https://github.com/iuripedroso/ProgramacaoParalela.git
+##
 <details close>
 <summary><a name="patents"><a/><h2>🥇 Certificates (<-- clickable)</h2></summary>
     <div align="center">
