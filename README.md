@@ -26,7 +26,7 @@
 
 <div align="left">
 
-## Portfolio
+# Portfolio
 
 - TraflePlant (Flutter | Dart): https://github.com/iuripedroso/TraflePlant
 - GARDEN (Html | CSS | JavaScript): https://iuripedroso.github.io/GARDEN/
