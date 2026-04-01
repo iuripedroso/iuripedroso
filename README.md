@@ -1,4 +1,11 @@
+# Meu Projeto Estelar
 
+<p align="center">
+  <img src="https://path-to-your-galaxy-gif.gif" alt="Galaxy Banner" width="100%">
+</p>
+
+## Sobre o Projeto
+Este é o meu projeto incrível...
  ## Iuri Pedroso - Contact me 
 <div style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/iuripedroso/">
