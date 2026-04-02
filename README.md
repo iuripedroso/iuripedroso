@@ -72,9 +72,6 @@ $ cat profile.json
 <br/>
 
 ---
-
-## ◈ &nbsp; Stats
-
 <div align="center">
 
 
