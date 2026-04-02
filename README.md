@@ -73,21 +73,29 @@ $ cat profile.json
 
 <div align="center">
 
-```
-— interfaces —
-```
-<img src="https://skillicons.dev/icons?i=flutter,react,html,css,tailwind,bootstrap,js&perline=7&theme=dark" />
-
-```
-— languages —
-```
-<img src="https://skillicons.dev/icons?i=dart,typescript,python,java,cpp,c,js&perline=7&theme=dark" />
-
-```
-— tools & infra —
-```
-<img src="https://skillicons.dev/icons?i=git,github,firebase,figma,vscode,linux&perline=6&theme=dark" />
-
+  <table>
+    <tr>
+      <td valign="top" width="20%">
+        ### Frontend
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter,tailwind,js,react&perline=4" />
+        </div>
+      </td>
+      <td valign="top" width="20%">
+        ### Languages
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=typescript,js,python,cpp,c,dart,&perline=4" />
+        </div>
+      </td>
+      <td valign="top" width="20%">
+        ### Others
+        <div align="center">
+          <img
+            src="https://skillicons.dev/icons?i=git,github,figma,vscode,firebase,linux,linkedin,instagram,vscodeqt&perline=4" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
