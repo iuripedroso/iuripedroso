@@ -29,6 +29,9 @@
 </div>
 
 ---
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter,tailwind,js,react,git,github,figma,vscode,firebase,linux,linkedin,instagram,vscode,typescript,js,python,cpp,c,dart,&perline=11" />
+</div>
 
 <br/>
 
@@ -68,12 +71,6 @@ $ cat profile.json
 <br/>
 
 ---
-
-## ◈ &nbsp; Stack
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter,tailwind,js,react,git,github,figma,vscode,firebase,linux,linkedin,instagram,vscode,typescript,js,python,cpp,c,dart,&perline=11" />
-</div>
 
 ## ◈ &nbsp; Stats
 
