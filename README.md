@@ -59,8 +59,7 @@ $ cat profile.json
 
 <br/><br/>
 
-<img src="https://i.pinimg.com/originals/fc/67/70/fc67709223666fddb8097e9fc4dfd705.jpg" width="88
-  %" />
+<img src="https://i.pinimg.com/originals/fc/67/70/fc67709223666fddb8097e9fc4dfd705.jpg" width="88%" />
 
 </td>
 </tr>
