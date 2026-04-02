@@ -13,6 +13,8 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVmanByZHE5MjQ4OXB3MDluZTllbjQybHIwNnl3dnE0bjlxcnYzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1CrHkXdEOagOU5vsSb/giphy.gif" width="85%" />
 -->
 <div align="center">
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1208,100:0d0d0d&height=160&section=header&text=Iuri%20Pedroso&fontSize=36&fontColor=c8a96e&animation=fadeIn&fontAlignY=38&desc=◈%20%20Desenvolvedor%20·%20Estudante%20de%20Ciência%20da%20Computação%20·%20Unicentro%20%20◈&descAlignY=62&descAlign=50&descSize=13&descColor=a89060" />
 </div>
 
