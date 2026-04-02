@@ -82,46 +82,6 @@ $ cat profile.json
 
 ---
 
-## ◈ &nbsp; Work
-
-<div align="center">
-
-<br/>
-
-| &nbsp; | Project | Stack | Link |
-|:---:|:--------|:------|:----:|
-| 🌿 | **TraflePlant** | Flutter · Dart | [→](https://github.com/iuripedroso/TraflePlant) |
-| 🌐 | **GARDEN** | HTML · CSS · JS | [→](https://iuripedroso.github.io/GARDEN/) |
-| 🗄️ | **SistemaDeGerenciamento** | Java · JavaFX · PostgreSQL | [→](https://github.com/iuripedroso/SistemaDeGerenciamento) |
-| 🧠 | **Inteligencia_Artificial** | Python | [→](https://github.com/iuripedroso/TraflePlant) |
-| 💌 | **Dear_Domenique** | HTML · CSS · JS | [→](https://iuripedroso.github.io/Dear_Domenique/) |
-
-</div>
-
-<br/>
-
----
-
-## ◈ &nbsp; Currently
-
-```
-╔─────────────────────────────────────────────────────────────╗
-│                                                             │
-│   📡  Programação Paralela                                  │
-│                                                             │
-│   C++ · OpenMP · threading · parallel computing            │
-│                                                             │
-│   [ ██████████████░░░░░░ ]  learning in progress...        │
-│                                                             │
-│   → github.com/iuripedroso/ProgramacaoParalela             │
-│                                                             │
-╚─────────────────────────────────────────────────────────────╝
-```
-
-<br/>
-
----
-
 ## ◈ &nbsp; Stats
 
 <div align="center">
@@ -133,8 +93,6 @@ $ cat profile.json
 [![GitHub Streak](https://streak-stats.demolab.com?user=iuripedroso&theme=dark&background=0d0d0d&border=2a2a2a&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555)](https://git.io/streak-stats)
 
 </div>
-
-<br/>
 
 ---
 
