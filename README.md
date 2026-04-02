@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=20&duration=3500&pause=900&color=C9A96E&center=true&vCenter=true&width=650&lines=flutter+%7C+web+%7C+ai+%7C+systems;crafting+interfaces+in+the+dark;mobile+apps+%2F+neural+nets+%2F+no+sleep;if+it+runs%2C+i+probably+built+it" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=10&duration=3500&pause=900&color=C9A96E&center=true&vCenter=true&width=650&lines=flutter+%7C+web+%7C+ai+%7C+systems;crafting+interfaces+in+the+dark;mobile+apps+%2F+neural+nets+%2F+no+sleep;if+it+runs%2C+i+probably+built+it" alt="typing" />
 
 <br/>
 
