@@ -60,7 +60,7 @@ $ cat profile.json
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=iuripedroso&count_private=true&show_icons=true&theme=transparent&rank_icon=github&border_radius=6&border_color=2a2a2a&title_color=C9A96E&icon_color=C9A96E&text_color=888888&bg_color=0d0d0d" width="100%" />
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3ea0ea85-1849-4b26-9c40-b6e62d8a0499/dajgd65-9be6b399-4260-4116-a250-b1771b26a629.png/v1/fill/w_757,h_823,q_80,strp/lain_iwakura_by_bronickelodeon_dajgd65-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODIzIiwicGF0aCI6Ii9mLzNlYTBlYTg1LTE4NDktNGIyNi05YzQwLWI2ZTYyZDhhMDQ5OS9kYWpnZDY1LTliZTZiMzk5LTQyNjAtNDExNi1hMjUwLWIxNzcxYjI2YTYyOS5wbmciLCJ3aWR0aCI6Ijw9NzU3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Vz5ahBr-nbXZr4ybnX2YerYxiZfr1cdVd_LcgnlMQ7U" width="100%" />
 
 </td>
 </tr>
