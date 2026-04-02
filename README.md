@@ -73,7 +73,9 @@ $ cat profile.json
 
 <div align="center">
   <table>
+    <tr>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter,tailwind,js,react,git,github,figma,vscode,firebase,linux,linkedin,instagram,vscode,typescript,js,python,cpp,c,dart,&perline=11" />
+      </tr>
   </table>
 </div>
 
