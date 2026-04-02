@@ -72,23 +72,16 @@ $ cat profile.json
 ## ◈ &nbsp; Stack
 
 <div align="center">
-
   <table>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter,tailwind,js,react,git,github,figma,vscode,firebase,linux,linkedin,instagram,vscode,typescript,js,python,cpp,c,dart,&perline=11" />
   </table>
 </div>
-
-<br/>
-
 ---
 
 ## ◈ &nbsp; Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuripedroso&langs_count=8&layout=compact&theme=transparent&border_radius=6&border_color=2a2a2a&title_color=C9A96E&text_color=888888&bg_color=0d0d0d&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
-
-<br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iuripedroso&theme=dark&background=0d0d0d&border=2a2a2a&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555)](https://git.io/streak-stats)
 
