@@ -74,27 +74,11 @@ $ cat profile.json
 <div align="center">
 
   <table>
-    <tr>
-      <td valign="top" width="20%">
-        ### Frontend
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter,tailwind,js,react&perline=4" />
-        </div>
-      </td>
-      <td valign="top" width="20%">
-        ### Languages
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=typescript,js,python,cpp,c,dart,&perline=4" />
-        </div>
-      </td>
-      <td valign="top" width="20%">
-        ### Others
-        <div align="center">
-          <img
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter,tailwind,js,react&perline=4" />
+    <img src="https://skillicons.dev/icons?i=typescript,js,python,cpp,c,dart,&perline=4" />
+    <img
             src="https://skillicons.dev/icons?i=git,github,figma,vscode,firebase,linux,linkedin,instagram,vscodeqt&perline=4" />
-        </div>
-      </td>
-    </tr>
+        
   </table>
 </div>
 
