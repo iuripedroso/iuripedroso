@@ -4,7 +4,7 @@
 <tr>
 <td align="center" width="55%">
 
-<img src="https://raw.githubusercontent.com/iuripedroso/iuripedroso/main/assets/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/iuripedroso/iuripedroso/main/assets/banner.PNG" width="100%" />
 
 </td>
 <td align="center" width="45%">
