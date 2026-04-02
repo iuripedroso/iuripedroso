@@ -1,29 +1,25 @@
 <div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVmanByZHE5MjQ4OXB3MDluZTllbjQybHIwNnl3dnE0bjlxcnYzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1CrHkXdEOagOU5vsSb/giphy.gif" width="80%" />
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td align="center" width="55%">
 
-</div>
+<img src="https://raw.githubusercontent.com/iuripedroso/iuripedroso/main/assets/banner.svg" width="100%" />
+
+</td>
+<td align="center" width="45%">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVmanByZHE5MjQ4OXB3MDluZTllbjQybHIwNnl3dnE0bjlxcnYzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1CrHkXdEOagOU5vsSb/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    ██╗██╗   ██╗██████╗ ██╗                                       ║
-║    ██║██║   ██║██╔══██╗██║          developer.                   ║
-║    ██║██║   ██║██████╔╝██║          builder.                     ║
-║    ██║██║   ██║██╔══██╗██║          designer.                    ║
-║    ██║╚██████╔╝██║  ██║██║                                       ║
-║    ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝          brazil · 2005 ·              ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=20&duration=3500&pause=900&color=C9A96E&center=true&vCenter=true&width=650&lines=flutter+%7C+web+%7C+ai+%7C+systems;crafting+interfaces+in+the+dark;mobile+apps+%2F+neural+nets+%2F+no+sleep;if+it+runs%2C+i+probably+built+it" alt="typing" />
 
-
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23C9A96E?style=for-the-badge&logo=linkedin&logoColor=0a0a0a)](https://www.linkedin.com/in/iuripedroso/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23C9A96E?style=for-the-badge&logo=gmail&logoColor=0a0a0a)](mailto:iuripedroso11072005@gmail.com)
@@ -36,9 +32,9 @@
 
 <br/>
 
-<table>
+<table border="0">
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
 ## ◈ &nbsp; `whoami`
 
@@ -60,7 +56,9 @@ $ cat profile.json
 ```
 
 </td>
-<td width="45%" align="center">
+<td width="45%" valign="top" align="center">
+
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=iuripedroso&count_private=true&show_icons=true&theme=transparent&rank_icon=github&border_radius=6&border_color=2a2a2a&title_color=C9A96E&icon_color=C9A96E&text_color=888888&bg_color=0d0d0d" width="100%" />
 
