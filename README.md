@@ -23,7 +23,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=20&duration=3500&pause=900&color=C9A96E&center=true&vCenter=true&width=650&lines=flutter+%7C+web+%7C+ai+%7C+systems;crafting+interfaces+in+the+dark;mobile+apps+%2F+neural+nets+%2F+no+sleep;if+it+runs%2C+i+probably+built+it" alt="typing" />
 
-<br/><br/>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23C9A96E?style=for-the-badge&logo=linkedin&logoColor=0a0a0a)](https://www.linkedin.com/in/iuripedroso/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23C9A96E?style=for-the-badge&logo=gmail&logoColor=0a0a0a)](mailto:iuripedroso11072005@gmail.com)
