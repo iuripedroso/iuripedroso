@@ -84,27 +84,6 @@ $ cat profile.json
 
 ---
 
-<details>
-<summary><b>◈ &nbsp; Certificates &nbsp; ↓</b></summary>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github.com/iuripedroso/iuripedroso/blob/main/assets/BATEL_page-0001.jpg?raw=true" width="220" style="margin: 8px; border-radius: 4px;"/>
-&nbsp;
-<img src="https://github.com/iuripedroso/iuripedroso/blob/main/assets/INF_page-0001.jpg?raw=true" width="220" style="margin: 8px; border-radius: 4px;"/>
-&nbsp;
-<img src="https://github.com/iuripedroso/iuripedroso/blob/main/assets/POCC_page-0001.jpg?raw=true" width="220" style="margin: 8px; border-radius: 4px;"/>
-
-</div>
-
-</details>
-
-<br/>
-
----
-
 <div align="center">
 
 ```
