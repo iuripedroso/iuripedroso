@@ -3,7 +3,7 @@
 
 <table border="0" cellspacing="0" cellpadding="12">
 <tr>
-verdade
+
 <td align="center" width="55%">
 
 <img src="https://raw.githubusercontent.com/iuripedroso/iuripedroso/main/assets/banner.PNG" width="100%" />
