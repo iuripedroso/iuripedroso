@@ -47,7 +47,7 @@
 <tr>
 <td width="55%" valign="top">
 
-## ◈ &nbsp; `quem sou eu?`
+## ◈ &nbsp; `who am I?`
 
 ```bash
 $ cat profile.json
