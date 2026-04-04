@@ -15,7 +15,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1208,100:0d0d0d&height=160&section=header&text=Iuri%20Pedroso&fontSize=36&fontColor=c8a96e&animation=fadeIn&fontAlignY=38&desc=◈%20%20Desenvolvedor%20·%20Designer·%20Estudante%20de%20Ciência%20da%20Computação%20·%20Unicentro%20%20◈&descAlignY=62&descAlign=50&descSize=13&descColor=a89060" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1208,100:0d0d0d&height=160&section=header&text=Iuri%20Pedroso&fontSize=36&fontColor=c8a96e&animation=fadeIn&fontAlignY=38&desc=◈%20%20Desenvolvedor%20·%20Designer%20·%20Estudante%20de%20Ciência%20da%20Computação%20·%20Unicentro%20%20◈&descAlignY=62&descAlign=50&descSize=13&descColor=a89060" />
 </div>
 
 </td>
