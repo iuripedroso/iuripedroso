@@ -92,7 +92,7 @@ $ cat profile.json
 <div align="center">
 
 ```
-  iuri pedroso  ·  brazil  ·  2025
+  iuri pedroso  ·  brazil  ·  2026
 ```
 
 <img src="https://komarev.com/ghpvc/?username=iuripedroso&style=flat-square&color=C9A96E&label=profile+views" />
