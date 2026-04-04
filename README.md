@@ -81,9 +81,7 @@ $ cat profile.json
 ---
 <div align="center">
 
-##
-portfolio
-##
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iuripedroso&theme=dark&background=0d0d0d&border=2a2a2a&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555)](https://git.io/streak-stats)
 
