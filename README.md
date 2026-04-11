@@ -61,8 +61,8 @@ $ cat profile.json
   "role"     : "Software Developer",
   "focus"    : ["Flutter", "Web", "AI", "Systems"],
   "status"   : "always building something",
-  "fuel"     : "caffeine + silence",
   "quote"    : "Art is self-expression striving to be absolute."
+  "studying" : ["AWS", "Data Science", "IHC"] 
 }
 ```
 
